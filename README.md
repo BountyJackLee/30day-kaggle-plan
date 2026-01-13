@@ -1,6 +1,18 @@
 # 30天Kaggle学习项目
 
-## 项目简介
+## GitHub Topics
+
+本项目的GitHub Topics:
+
+- machine-learning
+- kaggle
+- python
+- data-science
+- lightgbm
+- beginner-friendly
+- tutorial
+
+这些标签帮助项目被正确分类和发现。## 项目简介
 这是一个完整的30天Kaggle竞赛学习项目，记录从机器学习入门到进阶的完整过程。
 
 ## 项目成果
