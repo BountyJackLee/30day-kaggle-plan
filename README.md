@@ -1,5 +1,11 @@
 # 30天Kaggle学习项目
 
+![GitHub License](https://img.shields.io/github/license/BountyJackLee/30day-kaggle-plan)
+![GitHub repo size](https://img.shields.io/github/repo-size/BountyJackLee/30day-kaggle-plan)
+![GitHub last commit](https://img.shields.io/github/last-commit/BountyJackLee/30day-kaggle-plan)
+![GitHub stars](https://img.shields.io/github/stars/BountyJackLee/30day-kaggle-plan?style=social)
+
+
 ## GitHub Topics
 
 本项目的GitHub Topics:
