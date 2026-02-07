@@ -1,0 +1,29 @@
+Day,比赛,任务,预计耗时,优先级
+Day 8,"Spaceship Titanic, PetFinder",研究并实现Blending技术,1-2小时,中
+Day 8,"Spaceship Titanic, PetFinder",学习并应用Stacking with meta-features,1-2小时,中
+Day 8,"Spaceship Titanic, PetFinder",创建自定义集成权重优化器,1-2小时,中
+Day 8,"Spaceship Titanic, PetFinder",目标：在任一比赛提升性能1%,1-2小时,高
+Day 9,Spaceship Titanic,创建5模型Stacking集成,1-2小时,中
+Day 9,Spaceship Titanic,优化集成权重,1-2小时,中
+Day 9,Spaceship Titanic,尝试不同的基学习器组合,1-2小时,中
+Day 9,Spaceship Titanic,目标：达到0.81500,1-2小时,高
+Day 10,Dog Breed,"集成EfficientNet, ResNet, DenseNet",1-2小时,中
+Day 10,Dog Breed,实现测试时增强(TTA),1-2小时,中
+Day 10,Dog Breed,创建多尺度推理策略,1-2小时,中
+Day 10,Dog Breed,目标：准确率提升至0.53500,1-2小时,高
+Day 11,PetFinder,实现特征级融合,1-2小时,中
+Day 11,PetFinder,创建模型级融合,1-2小时,中
+Day 11,PetFinder,设计决策级融合策略,1-2小时,中
+Day 11,PetFinder,目标：RMSE降低至20.42000,1-2小时,高
+Day 12,Titanic,使用树模型分析特征重要性,1-2小时,中
+Day 12,Titanic,创建交互特征和多项式特征,1-2小时,中
+Day 12,Titanic,实现领域知识特征工程,1-2小时,中
+Day 12,Titanic,目标：准确率提升至0.78800,1-2小时,高
+Day 13,所有比赛,识别各比赛最佳实践,1-2小时,中
+Day 13,所有比赛,设计技术迁移实验,1-2小时,中
+Day 13,所有比赛,验证迁移效果,1-2小时,中
+Day 13,所有比赛,目标：完成至少2个技术迁移实验,1-2小时,高
+Day 14,所有比赛,分析距离铜牌线的差距,1-2小时,中
+Day 14,所有比赛,识别最有潜力的比赛,1-2小时,中
+Day 14,所有比赛,制定最后两周冲刺计划,1-2小时,中
+Day 14,所有比赛,目标：创建详细的差距分析报告,1-2小时,高

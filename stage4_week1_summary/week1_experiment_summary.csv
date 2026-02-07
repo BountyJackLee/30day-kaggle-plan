@@ -1,0 +1,10 @@
+competition,day,metric,public_score,private_score,cv_score,historical_best,improvement,key_strategy,learning_insight
+Spaceship Titanic,1,accuracy,0.80757,0.80757,0.81656,0.80991,0.0,基线特征工程,验证集存在过拟合
+Spaceship Titanic,2,accuracy,0.80453,0.80453,0.80126,0.80453,0.0,特征交互实验,复杂特征导致性能下降
+Spaceship Titanic,3,accuracy,0.8043,0.8043,0.80697,0.80453,-0.028588119771786318,GroupKFold集成,解决严重过拟合问题
+Titanic,1,accuracy,0.77751,0.77751,0.81564,0.78468,0.0,基线特征工程,验证集过拟合严重
+PetFinder,1,rmse,20.49365,20.46996,20.59,20.48481,0.0,元数据特征工程,稳定性优秀，公开私榜差异小
+PetFinder,6,rmse,20.47834,20.47454,20.59,20.48481,0.03158437886414469,多模态融合优化,简单特征优于复杂系统
+Dog Breed,1,logloss,4.78749,4.78749,4.79,0.52866,0.0,简化特征（失败）,必须使用图像数据
+Dog Breed,4,logloss,0.90205,0.90205,0.7321,0.52866,-70.62951613513411,迁移学习基础,从0.88%到73.21%的突破
+Dog Breed,5,logloss,0.86349,0.86349,0.7526,0.52866,-63.335603223243666,学习率策略优化,DenseNet121优于ResNet50

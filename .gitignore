@@ -20,42 +20,43 @@ wheels/
 .installed.cfg
 *.egg
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
 
 # Kaggle
-kaggle.json
-*.csv
-*.pkl
-*.pickle
+.kaggle/
+
+# Virtual environments
+venv/
+env/
+ENV/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Logs
-logs/*
-!logs/.gitkeep
+# Large files
+*.pkl
+*.h5
+*.hdf5
+*.model
+*.weights
 
-# Data
-data/raw/
-data/processed/
-data/external/
+# Notebook checkpoints
+.ipynb_checkpoints/
 
-# Models
-models/saved/
-
-# Submissions
-submissions/
-
-# Environment
-.env
-venv/
-env/
+# Data files (可以注释掉需要跟踪的文件)
+# *.csv
+# *.json
+# *.parquet

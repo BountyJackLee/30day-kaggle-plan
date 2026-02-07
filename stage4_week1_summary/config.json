@@ -1,0 +1,19 @@
+{
+  "report_generated": "2026-02-07 05:41:29",
+  "total_experiments": 9,
+  "competitions_covered": [
+    "Spaceship Titanic",
+    "Titanic",
+    "PetFinder",
+    "Dog Breed"
+  ],
+  "days_covered": [
+    1,
+    2,
+    3,
+    6,
+    4,
+    5
+  ],
+  "data_file": "week1_experiment_summary.csv"
+}
